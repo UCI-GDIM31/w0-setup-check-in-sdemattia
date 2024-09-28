@@ -55,7 +55,7 @@ For the next questions, a programming or game development concept is presented:
     >N/A
 
 4. Object-Oriented programming
-    N/A
+    >N/A
 
 5. Model-View-Controller architecture
     >N/A
