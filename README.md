@@ -6,17 +6,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+    >My name is Sophia DeMattia and I use she/her pronouns. I have no prior experience with coding games (besides using scratch back in middle school) but I am a GDIM major and desperately need to learn. Despite this being a required course for my major, I am excited to learn the basics of programming games.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+    >A base level knowledge that I can continue to add to throughout the rest of my classes.
 4. What, if anything, are you nervous about for this class?
+    >I am not too nervous about this class, currently at least.
 
 ## Prior Experience
 
@@ -25,10 +28,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+    >I have some experience in Python and Java but I don't remember most of it.
 
 2. Game development (any engine)
+    >N/A
 
 3. Unity
+    >N/A
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +46,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+    >N/A
 
 2. Scope management
+    >N/A
 
 3. Iteration
+    >N/A
 
 4. Object-Oriented programming
+    N/A
 
 5. Model-View-Controller architecture
+    >N/A
 
 ## Complete!
 
